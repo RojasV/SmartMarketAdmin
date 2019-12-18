@@ -1,4 +1,4 @@
-const API_URL = "http://ht-smart-market-api.herokuapp.com";
+const API_URL = "http://localhost:3000";
 import axios from "axios";
 
 export default {
